@@ -1,4 +1,4 @@
-# 黑苹果 OpenCore引导for 七彩虹 战斧C.B360M-HD 魔音版 V20（海外V20 pro）
+# 黑苹果 OpenCore引导for 七彩虹 战斧C.B360M-HD 魔音版 V20（海外V20 pro）已去除三码，需自己定制
 
 **硬件配置：**
 
