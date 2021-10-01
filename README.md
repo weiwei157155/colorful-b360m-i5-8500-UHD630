@@ -61,3 +61,4 @@
 5. Vault：Optional。以上三个关闭OC安全启动功能。
 
 **最后感谢GitHub大佬swjtuhyq的EFI，这里只是添加了DW1820A的驱动**
+大佬的GitHub主页：[swjtuhyq](https://github.com/swjtuhyq/colorful-b360m-efi)
